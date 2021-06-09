@@ -1,0 +1,18 @@
+
+body {
+    
+    background-color: #8d4141;
+}
+
+.colorChnage{
+    color: red;
+}
+
+#inputScore{
+    line-height: 40px;
+    border-top: 20 px;
+}
+.allBtn{
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
